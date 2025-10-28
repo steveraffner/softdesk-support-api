@@ -31,7 +31,7 @@ API RESTful pour la gestion et le suivi des problèmes techniques développée a
 ### 1. Cloner le repository
 ```bash
 git clone https://github.com/steveraffner/softdesk-support-api.git
-cd OC-Projet-10-APIRestful
+cd softdesk-support-api
 ```
 
 ### 2. Créer l'environnement virtuel
