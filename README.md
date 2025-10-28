@@ -30,7 +30,7 @@ API RESTful pour la gestion et le suivi des problèmes techniques développée a
 
 ### 1. Cloner le repository
 ```bash
-git clone <url-du-repository>
+git clone https://github.com/steveraffner/softdesk-support-api.git
 cd OC-Projet-10-APIRestful
 ```
 
