@@ -23,7 +23,7 @@ API RESTful pour la gestion et le suivi des problèmes techniques développée a
 
 ## 📋 Prérequis
 
-- Python 3.8 ou plus récent
+- Python 3.11 recommandé
 - pip (gestionnaire de paquets Python)
 
 ## ⚡ Installation rapide
@@ -36,12 +36,13 @@ cd softdesk-support-api
 
 ### 2. Créer l'environnement virtuel
 ```bash
-python -m venv venv
+python3.11 -m venv venv
 source venv/bin/activate  # Sur Windows: venv\Scripts\activate
 ```
 
 ### 3. Installer les dépendances
 ```bash
+pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
