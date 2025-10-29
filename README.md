@@ -86,8 +86,8 @@ Content-Type: application/json
 {
     "username": "testuser",
     "email": "test@example.com",
-    "password": "motdepasse123*",
-    "password_confirm": "motdepasse123*",
+    "password": "test1234*",
+    "password_confirm": "test1234*",
     "first_name": "Test",
     "last_name": "User",
     "birth_date": "2000-01-01",
@@ -103,7 +103,7 @@ Content-Type: application/json
 
 {
     "username": "testuser",
-    "password": "motdepasse123*"
+    "password": "test1234*"
 }
 ```
 
